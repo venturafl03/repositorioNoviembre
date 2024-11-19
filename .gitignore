@@ -1,0 +1,4 @@
+"# copias seguridad " 
+*.bak 
+# archivos .txt
+*.txt
